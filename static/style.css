@@ -1,0 +1,36 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',
+     Arial, sans-serif;
+     background-color:#797977 
+}
+
+
+#nav-bar {
+    background-color: #53667b ;
+}
+.but1 {
+    background-color:  #d1cdc6;
+}
+.services {
+    background-color: #98bfcd;
+    border-radius: 5px;
+    
+    
+}
+.specs > div {
+    background-color: #8ba7b6;
+    border-radius: 10px;
+    
+
+}
+
+.about {
+    background-color: #7a909d;
+}
+.pic{
+    border-radius:20;
+ }
+
+ footer {
+    background-color: #53667b ;
+ }
